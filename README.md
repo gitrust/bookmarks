@@ -17,7 +17,7 @@ A collection of bookmarks for various software and sites
 ## 3D Software
 
 * [OpenSCAD](http://www.openscad.org/) - software for creating solid 3D CAD objects
-* [CInk](http://cink.applegrew.com/) - interpreter for the CFDG language
+* [CInk](http://cink.applegrew.com/) - Javascript interpreter for the CFDG language
 
 ## Consoles
 
