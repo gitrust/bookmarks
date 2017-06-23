@@ -31,3 +31,10 @@ A collection of bookmarks for various software and sites
 * [Processing.js](http://processingjs.org/) - a port of the Processing Visualization Language 
 * [Structure Synth](http://structuresynth.sourceforge.net/) - cross-platform application for generating 3D structures by specifying a design grammar
 * [Syntopia](http://blog.hvidtfeldts.net/index.php/generative-art-links/) - Generative Art Links
+
+## Art Software
+
+* [Alchemy](http://al.chemy.org/) - an open drawing and sketching environment
+* [Inkscape](https://inkscape.org) - vector based drawing software
+* [Pencil2d](https://www.pencil2d.org/) - animation software
+* [Webchemy](http://webchemy.org) - Online drawing software based on Alchemy
