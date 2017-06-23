@@ -3,26 +3,30 @@ A collection of bookmarks for various software and sites
 
 ## Online Collaboration Editors
 
-* [Collabedit](http://collabedit.com)
+* [Collabedit](http://collabedit.com) - online text editor for real-time collaboration
 * [Firepad](https://demo.firepad.io) - Open source collaborative code and text editing
 
 ## Graph editors
 
-* [Yed](https://www.yworks.com/products/yed) - Java-based graph editor to generate diagrams
 * [Graphviz](http://www.graphviz.org/) - open source graph visualization software, text-based notation (dot)
 * [PlantUML](http://plantuml.com/) - open source project for creation of UML diagrams, text-based notation
 * [PlantText](https://www.planttext.com/) - online graph editor based on PlantUML
+* [Yed](https://www.yworks.com/products/yed) - Java-based graph editor to generate diagrams
 * [XGraph](http://www.xgraph.org/) - general purpose x-y data plotter
 
 ## 3D Software
 
-* [OpenSCAD](http://www.openscad.org/) - software for creating solid 3D CAD objects
 * [CInk](http://cink.applegrew.com/) - Javascript interpreter for the CFDG language
+* [OpenSCAD](http://www.openscad.org/) - software for creating solid 3D CAD objects
 
-## Consoles
 
+## Windows Consoles
+
+* [Babun](http://babun.github.io/) - a windows shell
 * [Clink](https://mridgers.github.io/clink/) - Bash-style command line editing for cmd.exe
 * [Console](https://github.com/cbucher/console) - Windows console with tabs
+* [Cygwin](https://www.cygwin.com/) - collection of GNU and open source tools (POSIX API)
+* [MinGW](http://mingw.org/) - minimalistic GNU for Windows, includes GNU BinUtils for windows
 
 ## Generative Art Software
 
@@ -38,3 +42,14 @@ A collection of bookmarks for various software and sites
 * [Inkscape](https://inkscape.org) - vector based drawing software
 * [Pencil2d](https://www.pencil2d.org/) - animation software
 * [Webchemy](http://webchemy.org) - Online drawing software based on Alchemy
+
+## Markdown editors
+
+* [Haroopad](http://pad.haroopress.com/) - crossplatform editor for Markdown
+* [MarkdownPad](http://markdownpad.com/) - full-featured Markdown editor for Windows
+* [Typora](https://typora.io/) - markdown visual editor (Windows, Linux, OS X)
+* [WriteMonkey](http://writemonkey.com/) - is a Windows zenware writing application with an extremely stripped down user interface, with Markdown support
+
+## Various Software
+
+* [Scribus](https://www.scribus.net/) - open source desktop publishing software
