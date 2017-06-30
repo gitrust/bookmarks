@@ -17,6 +17,7 @@ A collection of bookmarks for various software and sites
 ## 3D Software
 
 * [CInk](http://cink.applegrew.com/) - Javascript interpreter for the CFDG language
+* [Mecabricks](http://www.mecabricks.com) - Online lego modelling
 * [OpenSCAD](http://www.openscad.org/) - software for creating solid 3D CAD objects
 
 
