@@ -51,6 +51,10 @@ A collection of bookmarks for various software and sites
 * [Typora](https://typora.io/) - markdown visual editor (Windows, Linux, OS X)
 * [WriteMonkey](http://writemonkey.com/) - is a Windows zenware writing application with an extremely stripped down user interface, with Markdown support
 
+## Authentication
+
+* [Hawk](https://github.com/hueniverse/hawk/) - Hawk is an HTTP authentication scheme using a message authentication code algorightm
+
 ## Various Software
 
 * [Scribus](https://www.scribus.net/) - open source desktop publishing software
