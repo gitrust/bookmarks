@@ -1,9 +1,10 @@
-Common unix commands
---------------------
+Common unix command shortcuts
+-----------------------------
 
-* *<<htop,htop>>* - a graphical interface to
+* *<<htop,htop>>* - interactive process viewer
 * *<<pfiles,pfiles>>* - list files open by a process
-
+* *<<strace,strace>>* - shows files which are read by a process
+* *uptime* - how long the system has been running
 
 Usage examples
 ^^^^^^^^^^^^^^
@@ -15,7 +16,15 @@ Usage examples
 htop
 htop -p PID
 htop -u USER
------------------ 
+-----------------
+
+.strace
+[[strace]]
+[source,bash]
+-----------------
+strace uptime 2>&1 | grep open
+-----------------
+
 
 .pfiles
 [[pfiles]]
@@ -24,3 +33,4 @@ htop -u USER
 ps -aef | grep processname
 pfiles {PID}
 -----------------
+
