@@ -1,0 +1,26 @@
+Common unix commands
+--------------------
+
+* *<<htop,htop>>* - a graphical interface to
+* *<<pfiles,pfiles>>* - list files open by a process
+
+
+Usage examples
+^^^^^^^^^^^^^^
+
+.htop
+[[htop]]
+[source,bash]
+-----------------
+htop
+htop -p PID
+htop -u USER
+----------------- 
+
+.pfiles
+[[pfiles]]
+[source,bash]
+-----------------
+ps -aef | grep processname
+pfiles {PID}
+-----------------
