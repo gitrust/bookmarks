@@ -2,9 +2,11 @@ Common unix command shortcuts
 -----------------------------
 
 * *<<htop,htop>>* - interactive process viewer
+* *<<lsof,lsof>>* - list open files
 * *<<pfiles,pfiles>>* - list files open by a process
 * *<<strace,strace>>* - shows files which are read by a process
 * *uptime* - how long the system has been running
+
 
 Usage examples
 ^^^^^^^^^^^^^^
@@ -16,6 +18,14 @@ Usage examples
 htop
 htop -p PID
 htop -u USER
+-----------------
+
+.lsof
+[[lsof]]
+[source,bash]
+-----------------
+# list open ports
+lsof -i -P -n
 -----------------
 
 .strace
