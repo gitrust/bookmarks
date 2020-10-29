@@ -1,8 +1,15 @@
 Common unix command shortcuts
 -----------------------------
 
+* *ctop* - command line / text based Linux Containers monitoring tool
+* *df* - report filesystem disk space usage
+* *dig* - a flexible tool for interrogating DNS servers
+* *free* - display amount of free and used memory in the system
 * *<<htop,htop>>* - interactive process viewer
+* *iftop* - measures data that flows through individual socket connections
+* *iotop* - simple top-like I/O monitor
 * *<<lsof,lsof>>* - list open files
+* *nload* - display the current network usage
 * *<<pfiles,pfiles>>* - list files open by a process
 * *<<strace,strace>>* - shows files which are read by a process
 * *uptime* - how long the system has been running
